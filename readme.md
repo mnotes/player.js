@@ -1,4 +1,4 @@
-### Custom themes cho videos player
+### Custom themes cho videojs player
 
 Fork từ phiên bản videojs 7.3.0
 

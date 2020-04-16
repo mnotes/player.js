@@ -1,5 +1,26 @@
 ### Custom themes cho videojs player
 
+Hình ảnh demo themes
+
+<!--gold start-->
+<table>
+  <tbody>
+    <tr>
+      <td align="center" valign="middle">
+        <a href="https://raw.githubusercontent.com/codego-vn/player.js/master/img/playing.png" target="_blank">
+          <img width="350px" src="https://raw.githubusercontent.com/codego-vn/player.js/master/img/playing.png">
+        </a>
+      </td>
+      <td align="center" valign="middle">
+        <a href="https://raw.githubusercontent.com/codego-vn/player.js/master/img/thumb.png" target="_blank">
+          <img width="350px" src="https://raw.githubusercontent.com/codego-vn/player.js/master/img/thumb.png">
+        </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+<!--gold end-->
+
 Fork từ phiên bản videojs 7.3.0
 
 Dự án này chỉ can thiệp css của videojs tránh dùng themes mặc định nhàm chán
@@ -39,24 +60,3 @@ Chèn đoạn code nhúng player vào trang bên trong `<body>`
 Mọi cài đặt js theo guides của videojs
 
 Nguồn & hướng dẫn chi tiết: https://github.com/videojs/video.js
-
-Hình ảnh demo themes
-
-<!--gold start-->
-<table>
-  <tbody>
-    <tr>
-      <td align="center" valign="middle">
-        <a href="https://raw.githubusercontent.com/codego-vn/player.js/master/img/playing.png" target="_blank">
-          <img width="350px" src="https://raw.githubusercontent.com/codego-vn/player.js/master/img/playing.png">
-        </a>
-      </td>
-      <td align="center" valign="middle">
-        <a href="https://raw.githubusercontent.com/codego-vn/player.js/master/img/thumb.png" target="_blank">
-          <img width="350px" src="https://raw.githubusercontent.com/codego-vn/player.js/master/img/thumb.png">
-        </a>
-      </td>
-    </tr>
-  </tbody>
-</table>
-<!--gold end-->
